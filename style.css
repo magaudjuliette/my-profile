@@ -1,0 +1,46 @@
+body {
+	background-color: #D3BDB0;
+	color: #386150;
+	margin-left: 80px;
+
+}
+h3 {
+	padding-left: 30px;
+}
+h4 {
+	padding-left: 30px;
+  }
+p {
+	padding-left: 30px
+}
+
+#logo {
+	border-radius: 50%;
+	width: 100px;
+
+}
+
+#entete{
+	text-align: center;
+}
+#esdeslogo{
+	width: 100px;
+}
+
+.card-blue {
+	background-color: #E7E5E5;
+	color: #386150;
+	border-radius: 3%;
+	box-shadow: 5px 6px grey;
+	margin-right: 30px;
+}
+
+.items1 {
+	display:flex;
+	justify-content: center;
+}
+.formation {
+	display:flex;
+	justify-content: space-between;
+	padding: 10px;
+}
